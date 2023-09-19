@@ -21,9 +21,10 @@
 
 ## Github stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
-![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=AvidCoder101&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvidCoder101&theme=radical)](https://git.io/streak-stats) 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AvidCoder101)](https://github.com/ryo-ma/github-profile-trophy)
+![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=ydeng11&show_icons=true) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ydeng11)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ydeng11)](https://github.com/ryo-ma/github-profile-trophy)
+<img alt="most used languages" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydeng11&count_private=true&layout=compact&border_radius=8&langs_count=10&hide=hack,swift,kotlin,objective-c"/>
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
