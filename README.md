@@ -2,7 +2,11 @@
 <h1 align="center">Hi <img width="35" src="https://media.tenor.com/dx2-6zNmU5UAAAAi/%E3%83%80%E3%83%B3%E3%82%B9-%E3%82%84%E3%81%BB%E3%83%BC.gif">, there</h1>
 </div>
 
------
+<div align="center">
+  <a href="https://github.com/ydeng11/ydeng11/">
+  <img  src="https://raw.githubusercontent.com/ydeng11/generate-snake-game-action/3e89fef170f50338cc059f887acaa9e76619ecdc/github-contribution-grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 [![GitHub followers](https://img.shields.io/github/followers/AvidCoder101.svg?style=social&label=Followers)](https://github.com/AvidCoder101?tab=followers)
 
