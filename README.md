@@ -8,7 +8,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/ydeng11/generate-snake-game-action/3e89fef170f50338cc059f887acaa9e76619ecdc/github-contribution-grid-snake.svg" />
 </picture>
 
-[![GitHub followers](https://img.shields.io/github/followers/AvidCoder101.svg?style=social&label=Followers)](https://github.com/AvidCoder101?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/AvidCoder101.svg?style=social&label=Followers)](https://github.com/ydeng11?tab=followers)
 
 ## Fun facts <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
