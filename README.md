@@ -16,11 +16,14 @@
 
 ## About Me 🎯
 
-- 🎿 **Dream destination:** Whistler
-- 👩🏻‍💻 **Focus:** Web & Backend Development
-- 🍳 **Passion:** Food lover
-- 📖 **Interests:** Fiction & Shows
-- 🔭 **Currently working on:** AI review and observability
+- 🎿 **Dream destination:** One Piece
+- 👩🏻‍💻 **Focus:** Agent Rides
+- 🍳 **Passion:** Making useful tools
+- 📖 **Interests:** Investments
+- 🔭 **Currently working on:**
+  - AI review and observability
+  - Make review ELI5 for engineers
+  - Self-hosting music server
 
 ---
 
